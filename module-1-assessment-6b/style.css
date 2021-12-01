@@ -1,0 +1,102 @@
+h2{
+	font-family: sans-serif;
+	font-size:20;
+	font-style: inherit;
+	text-align: center;
+
+}
+h1{
+	font-size: 20
+	font-style:italic;
+	font-family: cursive;
+	text-align: center;
+	color: white;
+}
+title{
+	font-size: 35;
+	font-style: italic;
+	font-family: cursive;
+	text-align: center;
+	color: white;
+}
+#menu{
+	text-decoration: none;
+	color: white;
+	text-align: bottom;
+	padding: 2em 2em 4em;
+	margin-top: 1.3em;
+
+#menu a{}
+
+	text-decoration: blink;
+	color: white;
+	text-align: bottom;
+	padding: 2em 2em 4em;
+	margin-top: 1.3em;
+
+}
+#MENU{
+	width:100%;
+	height:40px;
+	background-color: violet
+}
+#MENU a{
+	
+	background-color: grey;
+	color:white;
+	font-family:helvetica, sans-serif;
+	font-size:18px;
+	text-decoration:none; 
+	font-weight:800; 
+
+	padding-left:30px;
+	padding-right:30px;
+
+}
+#MENU a:hover{
+	color: black;
+}
+br{
+	color: grey
+	font-size: 16px;
+}
+th{
+	color: black;
+	font-weight:800;
+	font-size:37;
+	font-family:  sans-serif;
+	text-align: center;
+	font-style: italic;
+}
+td{
+	color: black;
+	font-weight:800;
+	font-size:34;
+	font-family:  sans-serif;
+	text-align: center;
+	font-style: italic;
+}
+p{
+	font-style: oblique;
+	font-family:helvetica, sans-serif;
+
+}
+table{
+	border-collapse: collapse;
+	border-color: black
+    border-width: 1px;
+   
+}
+.gallery img {
+	width: 60%;
+	height:60%;
+}
+h3 {
+	color: black;
+	font-weight:800;
+	font-size:34;
+	font-family:  sans-serif;
+	text-align: center;
+	font-style: italic;
+	padding-bottom: 35px;
+}
